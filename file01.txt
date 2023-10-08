@@ -1,2 +1,1 @@
-
 apdate count=7
